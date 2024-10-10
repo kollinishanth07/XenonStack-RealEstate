@@ -4,18 +4,7 @@
 User Authentication:
 Allow users to register and log in. Ensure that certain features, like adding listings or favoriting properties, are accessible only to authenticated users.
 <hr>
-<h>CRUD Operations:</h>
-<h1>Create:</h1>
-Implement a form to allow users to add new property listings. This form should include details like property name, address, description, price, type (sale or rent), number of bedrooms, bathrooms, etc.
 
-<h1>Read:</h1>
-Display property listings on the homepage or on a dedicated listings page. Each listing should show key information and a link to view more details.
-
-<h1>Update</h1>
-Allow users to edit their own property listings. Include validation to ensure data consistency.
-
-<h1>Delete</h1>
-Provide an option for users to delete their listings.
 <h>SCREENSHOTS</h>
 
 
