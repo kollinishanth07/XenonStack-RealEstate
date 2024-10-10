@@ -16,21 +16,14 @@ Allow users to edit their own property listings. Include validation to ensure da
 
 <h1>Delete</h1>
 Provide an option for users to delete their listings.
+<h>SCREENSHOTS</h>
 
-<h1>Search and Filters:</h1>
-Implement a search bar to allow users to search for properties based on keywords like location, type, or price range. Include filters for refining search results, such as filtering by property type, number of bedrooms, bathrooms, etc.
 
-<h1>Image Upload:</h1>
-Allow users to upload images for their property listings. Display these images in a gallery or carousel on the listing details page.
+![Screenshot 2024-10-10 205938](https://github.com/user-attachments/assets/ecce5b9c-5bb0-4353-893c-cb9922477b17)
+![Screenshot 2024-10-10 205915](https://github.com/user-attachments/assets/570be142-ab8c-4037-a2df-f5c40cc943c8)
+![Screenshot 2024-10-10 205908](https://github.com/user-attachments/assets/f9f59f5c-bbfd-4fab-a169-e36db1e12e4f)
+![Screenshot 2024-10-10 205855](https://github.com/user-attachments/assets/e95b3044-379b-4858-a99b-a9ca92ff2104)
 
-<h1>User Dashboard</h1>
-Provide a user dashboard where users can manage their property listings, view favorites, and edit their profile.
-
-<h1>Responsive Design</h1>
-This website is responsive, making it accessible and user-friendly across various devices, including desktops, tablets, and mobile phones.
-
-<h1>Error Handling and Validation</h1>
-Implement thorough error handling and validation on the server and client sides to ensure data integrity and a smooth user experience.
-
-<h1>Pagination</h1>
-If you have a large number of listings, implement pagination to improve page load times and the user experience.
+<h1>About Me</h1>
+Hi 👋, I'M KOLLI NISHANTH
+I'm Passionate Full Stack Developer crafting seamless frontend experiences and powerful backend solutions. Expert in React.js and Node.js
