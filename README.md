@@ -2,7 +2,7 @@
 
 🚀 Building a Real Estate website using the MERN stack involves creating a full-stack application with MongoDB, Express.js, React.js, and Node.js. Here's a breakdown of the key features you can implement:
 <hr>
-<a href="https://mern-estate-ptx2.onrender.com/"> DEPLOYED VERSION </a>
+<a href="https://mern-estate-ptx2.onrender.com/"> DEPLOYED VERSION 📌📌 </a>
 <hr>
 <h>SCREENSHOTS</h>
 
